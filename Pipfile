@@ -15,6 +15,7 @@ geopandas = "*"
 matplotlib = "*"
 geojson-rewind = "*"
 statsmodels = "*"
+tabulate = "*"
 
 [dev-packages]
 
